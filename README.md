@@ -1,6 +1,6 @@
 # Hugo Test #1
 
-##DEMO : [Counter](https://upbeat-hopper-956074.netlify.app/)
+## DEMO  [Counter](https://upbeat-hopper-956074.netlify.app/)
 
 This is the task #1 of the "7GUIs: A GUI Programming Benchmark" wich is the Counter
 
